@@ -14,6 +14,10 @@ A Golang API that retrieves weather information based on a Brazilian postal code
 - Docker (optional, for containerized deployment)
 - WeatherAPI key (sign up at https://www.weatherapi.com/)
 
+## Deploy in Cloud Run
+
+The deploy is in URL: [Cloud Run](https://cloudrun-goexpert-yfup7er4ma-uc.a.run.app/weather/cep/08540130)
+
 ## API Endpoints
 
 ### Get Weather by CEP
